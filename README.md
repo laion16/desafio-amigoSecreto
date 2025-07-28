@@ -7,7 +7,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/status-culminado-508050">
-    <img src = "https://img.shields.io/badge/lenguaje-javascript-blue?logo=javascript">
+    <img src = "https://img.shields.io/badge/language-javascript-blue?logo=javascript">
 </p>
 
 ## 📄 Descripción del proyecto 
@@ -40,12 +40,12 @@ El presente proyecto es un sistema web que emula el sorteo de un nombre de una l
 
 * `Sorteo de nombres`: El sistema sorteará un nombre de la lista una vez se haga clic en el botón.
 
-    ### Digitacion del nombre
+    ### Sorteo del nombre
     <img width=750 alt="Sorteo del nombre" src="./assets/images-md/sorteo-amigo.png">
 
 ## 👀 Posibles problemas y soluciones
 
-El sistema está desarrollado bajo algunos supuestos que durante el uso podrían disminnuir la experiencia, tales como:
+El sistema está desarrollado bajo algunos supuestos que durante el uso podrían disminuir la experiencia, tales como:
 
 * Si bien el sistema permite sortear un nombre de una lista ya ingresada, para volver a ingresar a otra lista se debe recargar la página. Esto puede manejarse con la incorporacion de un botón, una vez se quiera borrar la lista de amigos actual.
 * A nivel de interfaz, una vez se ingresan un cantidad considerable de nombres se genera un scroll lo que podría generar incomodidad. Esto podría manejarse con el empleo de código html y css, en los elementos `<li>` los cuales contienen los nombres ingresados.
@@ -53,7 +53,7 @@ El sistema está desarrollado bajo algunos supuestos que durante el uso podrían
 
 ## 📋 Tecnologías empleadas
 
-El sistema está desarrollado con tecnologías básicas, siendo estas las siguientes:
+El sistema está desarrollado con tecnologías básicas, siendo estas:
 
 * HTML.
 * Javascript.
